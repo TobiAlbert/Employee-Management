@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a9c614-924a-488a-97c6-4cedcc860c44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/employee_management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.pytest_cache/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/home/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/img/landing_page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/departments/department.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/departments/departments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/employees/employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/employees/employees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/roles/role.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/admin/roles/roles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/auth/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/auth/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/errors/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/errors/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/errors/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/home/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/home/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/53dca3383431_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +28,7 @@
           <entry key="db" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="29" />
-          <entry key="py" value="71" />
+          <entry key="py" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -79,7 +36,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="29" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -87,17 +44,17 @@
           <entry key="Python Console" value="138" />
           <entry key="css" value="7" />
           <entry key="dummy" value="1" />
-          <entry key="gitignore" value="102" />
+          <entry key="gitignore" value="117" />
           <entry key="html" value="7540" />
-          <entry key="py" value="17986" />
+          <entry key="py" value="18028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="7" />
           <entry key="HTML" value="7540" />
-          <entry key="PLAIN_TEXT" value="103" />
-          <entry key="Python" value="18124" />
+          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="Python" value="18166" />
         </counts>
       </usages-collector>
     </session>
@@ -118,6 +75,22 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <marker date="1536358054329" expanded="true" signature="78:83" ph="..." />
+                <marker date="1536358054329" expanded="true" signature="400:401" ph="..." />
+                <marker date="1536358054329" expanded="true" signature="400:406" ph="..." />
+                <marker date="1536358054329" expanded="true" signature="522:527" ph="..." />
+                <marker date="1536358054329" expanded="true" signature="615:792" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="108">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -231,17 +204,17 @@
         <option value="$PROJECT_DIR$/app/templates/errors/404.html" />
         <option value="$PROJECT_DIR$/app/templates/errors/500.html" />
         <option value="$PROJECT_DIR$/app/instance/config.py" />
-        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/app/__init__.py" />
         <option value="$PROJECT_DIR$/app/models.py" />
         <option value="$PROJECT_DIR$/app/tests.py" />
         <option value="$PROJECT_DIR$/app/templates/admin/employees/employees.html" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -459,9 +432,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="676" y="0" width="697" height="775" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.50074404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.6691958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -472,7 +445,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924126" visible="true" weight="0.25384617" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924126" visible="true" weight="0.2527301" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007587" side_tool="true" weight="0.8065523" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -662,20 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1536327703163" expanded="true" signature="78:83" ph="..." />
-            <marker date="1536327703163" expanded="true" signature="348:349" ph="..." />
-            <marker date="1536327703163" expanded="true" signature="348:354" ph="..." />
-            <marker date="1536327703163" expanded="true" signature="470:475" ph="..." />
-            <marker date="1536327703163" expanded="true" signature="563:740" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/test.db">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -739,8 +698,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <marker date="1536358054329" expanded="true" signature="78:83" ph="..." />
+            <marker date="1536358054329" expanded="true" signature="400:401" ph="..." />
+            <marker date="1536358054329" expanded="true" signature="400:406" ph="..." />
+            <marker date="1536358054329" expanded="true" signature="522:527" ph="..." />
+            <marker date="1536358054329" expanded="true" signature="615:792" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
