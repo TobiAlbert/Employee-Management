@@ -1,0 +1,7 @@
+# Virtual Environment
+venv
+
+app.db
+/app/test.db
+
+__pycache__

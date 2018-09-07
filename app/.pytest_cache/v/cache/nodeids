@@ -1,0 +1,3 @@
+[
+  "tests.py::TestErrorPages::test_404_not_found"
+]

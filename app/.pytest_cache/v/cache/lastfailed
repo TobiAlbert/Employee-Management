@@ -1,0 +1,5 @@
+{
+  "tests.py::TestErrorPages::test_403_forbidden": true,
+  "tests.py::TestErrorPages::test_404_not_found": true,
+  "tests.py::TestErrorPages::test_500_internal_server_error": true
+}

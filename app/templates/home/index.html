@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block body %}
+<div class="intro-header">
+    <div class="container">
+        <img src="{{ url_for('static', filename='img/landing_page.jpg') }}" alt="">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="intro-message">
+                    <h1>
+                        Project Dream Team
+                    </h1>
+                    <h3>
+                        The best company in the world!
+                    </h3>
+                    <hr class="intro-divider">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
